@@ -1,0 +1,10 @@
+jfmalia@hinalea:~$ cp -R sandbox playpen
+jfmalia@hinalea:~$ cd playpen
+jfmalia@hinalea:~/playpen$ mv -i dir1 folder1
+jfmalia@hinalea:~/playpen$ mv dir2 folder2
+jfmalia@hinalea:~/playpen$ mv commands.txt play.txt
+jfmalia@hinalea:~/playpen$ ls
+folder1  folder2  play.txt
+jfmalia@hinalea:~/playpen$ gedit play.txt
+
+

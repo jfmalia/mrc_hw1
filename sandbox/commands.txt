@@ -1,0 +1,14 @@
+jfmalia@hinalea:~/sandbox$ gedit commands.txt
+jfmalia@hinalea:~/sandbox$ mkdir dir1
+jfmalia@hinalea:~/sandbox$ mkdir dir2
+jfmalia@hinalea:~/sandbox$ cd dir1
+jfmalia@hinalea:~/sandbox/dir1$ gedit file1.txt
+jfmalia@hinalea:~/sandbox/dir1$ cd ..
+jfmalia@hinalea:~/sandbox$ cd dir2
+jfmalia@hinalea:~/sandbox/dir2$ gedit file2.txt
+jfmalia@hinalea:~/sandbox/dir2$ cd ..
+jfmalia@hinalea:~/sandbox$ ls
+commands.txt  dir1  dir2
+jfmalia@hinalea:~/sandbox$ gedit commands.txt
+
+
